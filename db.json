@@ -1,0 +1,13 @@
+{
+  "menus": ["Home", "Post"],
+  "posts": [
+    {
+      "id": 1,
+      "title": "ReactJS"
+    },
+    {
+      "id": 2,
+      "title": "Next.js"
+    }
+  ]
+}
